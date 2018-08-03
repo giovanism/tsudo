@@ -6,7 +6,7 @@ with open('README.md') as readme_file:
 setuptools.setup(
         name='tsudo',
         python_requires='>3',
-        version='0.0.4',
+        version='0.0.5',
         author='Giovan Isa Musthofa',
         author_email='giovanism@outlook.co.id',
         description='Tsundere wrapper for sudo command.',

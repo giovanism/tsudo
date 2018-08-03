@@ -1,0 +1,7 @@
+__pycache__/
+
+# Package build files
+
+/build
+/dist
+/tsudo.egg-info

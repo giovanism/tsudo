@@ -38,3 +38,6 @@ Add this line to your `sudoers` file
 Defaults !tty_tickets
 ```
 
+## Video Demonstration
+[![asciinemaLink](https://asciinema.org/a/194754.png)](https://asciinema.org/a/194754)
+

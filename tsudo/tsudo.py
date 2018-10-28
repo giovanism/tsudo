@@ -84,7 +84,8 @@ tsun_lines = (
     "I just had extra, so shut up and take it!",
     "Can you be ANY MORE CLUELESS?",
     "HEY! It's a privilege to even be able to talk to me! You should be honored!",
-    "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!"
+    "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!",
+    "Brother, You are stupid!!"
 )
 
 if __name__ == '__main__':

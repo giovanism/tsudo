@@ -15,6 +15,7 @@ import pexpect
 from os import getlogin
 from random import Random
 from collections import deque
+from lines import tsun_lines
 
 prompt = '[sudo] password for %s: ' % getlogin()
 attempts_up_pat = re.compile(r'sudo: [0-9]+ incorrect password attempt')
@@ -64,29 +65,6 @@ def rand_tsun():
     '''Return a random tsundere response from `tsun_lines`.'''
     return rand.choice(tsun_lines)
 
-tsun_lines = (
-
-    # Generic tsudere lines
-    # source https://www.reddit.com/r/Tsunderes/wiki/tsunderelines<Paste>
-
-    "N-No, it's not like I did it for you! I did it because I had freetime, that's all!",
-    "I like you, you idiot!",
-    "BAKAAAAAAAAAAAAAAA!!!!! YOU'RE A BAKAAAAAAA!!!!",
-    "I'm just here because I had nothing else to do!",
-    "Are you stupid?",
-    "You're such a slob!",
-    "You should be grateful!",
-    "You're free anyways, right?",
-    "Don't misunderstand, it's not like I like you or anything...",
-    "H-Hey....",
-    "....T-Thanks.....",
-    "T-Tch! S-Shut up!",
-    "I just had extra, so shut up and take it!",
-    "Can you be ANY MORE CLUELESS?",
-    "HEY! It's a privilege to even be able to talk to me! You should be honored!",
-    "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!"
-)
 
 if __name__ == '__main__':
     main(sys.argv[1:])
-

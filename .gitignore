@@ -1,4 +1,5 @@
 __pycache__/
+*.pyc
 
 # Package build files
 

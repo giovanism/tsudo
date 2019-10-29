@@ -85,6 +85,9 @@ tsun_lines = (
     "Can you be ANY MORE CLUELESS?",
     "HEY! It's a privilege to even be able to talk to me! You should be honored!",
     "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!",
+    "Brother, You are stupid!!"
+    "Shut up! You're so annoying!, Are you stupid?"
+    "Stop acting like you understand me."
     "Brother, You are stupid!!",
     "B-Baka!",
     "Urusai, urusai, urusai!!",

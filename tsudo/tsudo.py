@@ -85,7 +85,20 @@ tsun_lines = (
     "Can you be ANY MORE CLUELESS?",
     "HEY! It's a privilege to even be able to talk to me! You should be honored!",
     "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!",
-    "Brother, You are stupid!!"
+    "Brother, You are stupid!!",
+    "B-Baka!",
+    "Urusai, urusai, urusai!!",
+    "BAKA BAKA CHI",
+    "Wh-who's a tsundere?!",
+    "I'm not.. I'm not particularly grateful to you.. I'm just being polite..",
+    "W-What?!",
+    "I've watched you for so long it's.. I mean, not in that way.. Well, it is but..",
+    "N-Nothing!",
+    "Really, it's nothing! ask more questions, and I'll hit you!",
+    "There's no real meaning behind it, okay?",
+    "I'm not mad!",
+    "What's wrong? You're creeping me out",
+    "Don't be so nosy!"
 )
 
 if __name__ == '__main__':

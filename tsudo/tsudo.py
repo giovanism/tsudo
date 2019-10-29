@@ -86,8 +86,8 @@ tsun_lines = (
     "HEY! It's a privilege to even be able to talk to me! You should be honored!",
     "Geez, stop pushing yourself! You're going to get yourself hurt one day, you idiot!",
     "Brother, You are stupid!!"
-	"Shut up! You're so annoying!, Are you stupid?"
-	"Stop acting like you understand me."
+    "Shut up! You're so annoying!, Are you stupid?"
+    "Stop acting like you understand me."
 )
 
 if __name__ == '__main__':
